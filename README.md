@@ -14,7 +14,7 @@
 
 ## 📜 Official Privacy Policy
 
-[![View Privacy Policy](https://img.shields.io/badge/View_Privacy_Policy-4285F4?style=for-the-badge&logo=google-play&logoColor=white)](https://yourusername.github.io/notibuku-privacy-policy/)
+[![View Privacy Policy](https://img.shields.io/badge/View_Privacy_Policy-4285F4?style=for-the-badge&logo=google-play&logoColor=white)](https://karyeija.github.io/notibuku-privacy-policy/)
 
 **Key Facts:**
 - ✅ Notes stored **only on your device**
